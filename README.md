@@ -13,9 +13,9 @@
 
 `/start` 한 번으로 지난 맥락을 이어받아 인사 + 오늘 브리핑(일정·관심종목)을 띄우는 모습입니다.
 
-<video src="https://github.com/choslion/agent-ss-showcase/raw/main/docs/demo.mp4" controls muted loop width="100%"></video>
+https://github.com/user-attachments/assets/b4be8232-35e0-4bcb-ab85-c7fcf385ba6c
 
-> 플레이어가 안 보이면 [데모 영상 직접 보기](https://github.com/choslion/agent-ss-showcase/raw/main/docs/demo.mp4)
+> 재생이 안 되면 [데모 영상 직접 보기](docs/demo.mp4)
 
 ## 한눈에
 
