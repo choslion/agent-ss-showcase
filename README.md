@@ -11,9 +11,11 @@
 
 ## 데모
 
-> 🎬 데모 GIF 준비 중 — 곧 추가됩니다.
-<!-- 녹화 후 docs/demo.gif 추가하고 아래 줄의 주석을 해제하세요. -->
-<!-- ![SS 데모](docs/demo.gif) -->
+`/start` 한 번으로 지난 맥락을 이어받아 인사 + 오늘 브리핑(일정·관심종목)을 띄우는 모습입니다.
+
+<video src="https://github.com/choslion/agent-ss-showcase/raw/main/docs/demo.mp4" controls muted loop width="100%"></video>
+
+> 플레이어가 안 보이면 [데모 영상 직접 보기](https://github.com/choslion/agent-ss-showcase/raw/main/docs/demo.mp4)
 
 ## 한눈에
 
