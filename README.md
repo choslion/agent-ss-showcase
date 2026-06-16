@@ -1,4 +1,4 @@
-# SS — 개인 AI 비서 (Chief of Staff)
+# SS - 개인 AI 비서 (Chief of Staff)
 
 [Claude Code](https://claude.com/claude-code)(Claude Agent SDK) 위에 만든 개인 "Chief of Staff" 에이전트입니다.
 세션을 넘어 맥락을 기억하고, 목표·할 일을 추적하고, 내가 실제로 쓰는 도구(주식·일정)에 통합해 매일 브리핑합니다.
